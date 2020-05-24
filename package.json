@@ -1,0 +1,22 @@
+{
+  "name": "akylc_small_plugin",
+  "version": "1.0.0",
+  "description": "一个自己的ts小工具库",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akylc/tsSmallPlugin.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akylc/tsSmallPlugin/issues"
+  },
+  "homepage": "https://github.com/akylc/tsSmallPlugin#readme"
+}
